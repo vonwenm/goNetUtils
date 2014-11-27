@@ -1,4 +1,4 @@
 goNetUtils
 ==========
 
-This is a collection of a utils about networks, written by Golang
+This is a collection of utils about networks, Written by zrhzrh in Golang.
